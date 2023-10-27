@@ -1,0 +1,15 @@
+h1
+{
+    width: 35%;
+    height: 10%;
+    font-size: 50px;
+    box-shadow: 5px 5px 5px grey;
+    display: inline;
+    background:orange;
+    color:black;
+}
+
+#inst
+{
+float: right;
+}
